@@ -1,0 +1,128 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{graphics}
+\title{Project prposal}
+\author{Rotan hawlader pranto , Sheikh Tanzida Tasmim Erin }
+\date{18 Februay 2022}
+
+
+%\maketitle
+\begin{document}
+\begin{center}
+  \includegraphics{Capture.PNG}
+\end{center}
+\begin{center}
+  \large\textbf{North South University} 
+\end{center}
+\begin{center}
+  \large Department of Electrical and Computer Engineering
+\end{center}
+\begin{center}
+  \large Project Proposal
+\end{center}
+\rule{\textwidth}{1pt}
+\begin{center}
+  \Large \textbf{Blood bank and donor management system}
+\end{center}
+\rule{\textwidth}{1pt}
+\begin{center}
+  \large Database System Lab
+\end{center}
+\begin{center}
+  \large CSE311L.9
+\end{center}
+\begin{center}
+  \large Semester Spring 2022
+\end{center}
+
+\begin{center}
+  \Large\textbf{Course Faculty} 
+\end{center}
+\begin{center}
+  \Large Nadeem Ahmed
+\end{center}
+
+\begin{center}
+  \Large\textbf{LAB Instructor} 
+\end{center}
+\begin{center}
+  \large Nazmul Alam Dipto
+\end{center}
+\begin{center}
+  \Large\textbf{Group members} 
+\end{center}
+\begin{center}
+  \large Rotan Hawlader Pranto
+\end{center}
+\begin{center}
+  \large ID : 2013193642
+\end{center}
+\begin{center}
+  \large Sheikh Tanzida Tasmim Erin
+\end{center}
+\begin{center}
+  \large ID : 2013681042
+\end{center}
+
+
+
+
+
+
+\section*{Introduction}
+   Bangladesh is an over populated country but still many peoples of Bangladesh don't get blood in the needy moments.Bangladesh gets it's 31 percent of blood from the donor and this percentage is very low, compared to other countries in South-East Asia, such as Thailand, India and Sri-Lanka, where the number reaches as high as 95 percent.So we need a trustful blood bank and if people can directly access to the blood bank it will be more beneficial and time saving. This is the main reason we are launching this website so that people can donate and buy blood through registering in the website with their "NID" cards.
+   
+   \section*{Objective}
+   \begin{itemize}
+       \item People can easily access the website from home or anywhere in Bangladesh.
+       \item People can Get to know about the donor.
+       \item People can register as donor or a buyer by them-self
+       \item People can register their location for blood donation as well as blood buying.
+        \item  people can get to know the availability of specific blood groups.
+   \end{itemize}
+   
+   \section*{Target Groups}
+   \begin{itemize}
+       \item Rare blood groups- peoples who need rare blood groups can easily contact with the donors through the website.
+       \item  Blood donors- people who wants to donate blood can register as donor and donate the blood in the nearby hospital. 
+   \end{itemize}
+   
+   \section*{Value proposition}
+   This website will help the people who needs blood in emergency. It will also reduce the hassle and suffering of patients family. People who has the great intention to donate blood can easily register through this website from home. It will also help the patient's family to save themselves from the Unscrupulous Syndicates.
+   
+   \begin{center}
+  \large 
+\end{center}
+   
+   
+   \section*{Web Application Feature and description}
+   
+   IT will have a front view for everyone whoever accessing the website and there will be a registration and login option for the viewers.
+   
+   \begin{itemize}
+       \item Registration portal
+       \item Survey of blood availability.
+       \item Separate portal for donors and buyers.
+       \item Contact option with the donors or buyers.
+   \end{itemize}
+   
+   The website will be handled by some specific admins who will observe and verify the data of the database.
+   
+   \section*{Tools and Resources}
+   \begin{itemize}
+    \item HTML
+    \item css
+    \item Javascript
+    \item Bootstrap
+    \item MySQL
+    \item PHP
+    \item Web server
+    \item jQuery
+    \item DB Query
+    \item API for sms
+   \end{itemize}
+   
+   \section*{Challenge}
+   One of the biggest challenge is cost as our service is all around Bangladesh. We also have to verify the authentications of the donors and buyers which is tough task. UI also need to be simple and easy so that normal people can also use it. We have to keep our website more secure to keep the data safe so that no one can manipulate the data of the database.
+   
+\end{document}
